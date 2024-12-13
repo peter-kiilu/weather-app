@@ -1,3 +1,4 @@
+I really enjoyed creating this weather app, and learning react as my fav development tool.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
